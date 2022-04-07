@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Belwe';
+    src: url('./fonts/subset-Belwe-Medium.eot');
+    src: url('./fonts/subset-Belwe-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/subset-Belwe-Medium.woff2') format('woff2'),
+        url('./fonts/subset-Belwe-Medium.woff') format('woff'),
+        url('./fonts/subset-Belwe-Medium.ttf') format('truetype'),
+        url('./fonts/subset-Belwe-Medium.svg#Belwe-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Belwe';
+    src: url('./fonts/subset-Belwe-CondensedBold.eot');
+    src: url('./fonts/subset-Belwe-CondensedBold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/subset-Belwe-CondensedBold.woff2') format('woff2'),
+        url('./fonts/subset-Belwe-CondensedBold.woff') format('woff'),
+        url('./fonts/subset-Belwe-CondensedBold.ttf') format('truetype'),
+        url('./fonts/subset-Belwe-CondensedBold.svg#Belwe-CondensedBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Belwe';
+    src: url('./fonts/subset-Belwe-Bold.eot');
+    src: url('./fonts/subset-Belwe-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/subset-Belwe-Bold.woff2') format('woff2'),
+        url('./fonts/subset-Belwe-Bold.woff') format('woff'),
+        url('./fonts/subset-Belwe-Bold.ttf') format('truetype'),
+        url('./fonts/subset-Belwe-Bold.svg#Belwe-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Belwe';
+    src: url('./fonts/subset-Belwe-Light.eot');
+    src: url('./fonts/subset-Belwe-Light.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/subset-Belwe-Light.woff2') format('woff2'),
+        url('./fonts/subset-Belwe-Light.woff') format('woff'),
+        url('./fonts/subset-Belwe-Light.ttf') format('truetype'),
+        url('./fonts/subset-Belwe-Light.svg#Belwe-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
